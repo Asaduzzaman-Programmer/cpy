@@ -45,17 +45,17 @@
     margin-left: 8%;
 }
 
-.detail h1{
+/* .detail h1{
     font-size: 40px;
     color: black;
     margin-bottom: 20px;
-}
+} */
 
 .sawon{
     color: orange;
 }
 
-/* .nav h1{
+.nav h1{
     color: orange;
 }
 
@@ -66,7 +66,7 @@
 
 .main{
     display: flex;
-} */
+}
 .btn a{
     background: orange;
     padding: 10px 18px;
